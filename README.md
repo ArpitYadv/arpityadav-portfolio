@@ -1,4 +1,4 @@
-# Arpit Yadav Portfolio
-
-    This will tell you about my portfolio
-this is the website of mine and it will be up tommorow at best and a day after tommorow atmax
+# arpityadav-portfolio
+It is to showcase my portfolio
+It is the first repositry i have ever hosted on github and wish me luck and i will be soon 
+able to complete the website if i follow my schedule honestly
